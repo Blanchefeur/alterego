@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Этерия — Архив НРИ</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background: #1a0f08;
+            color: #e8d5a3;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: linear-gradient(#2c1e14, #1a0f08);
+            padding: 2rem;
+            text-align: center;
+            border-bottom: 4px solid #8b5a2b;
+        }
+        h1 {
+            font-size: 3rem;
+            color: #f4c77d;
+            text-shadow: 0 0 10px #8b5a2b;
+        }
+        nav {
+            background: #2c1e14;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav a {
+            color: #e8d5a3;
+            margin: 0 1.5rem;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .content {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background: rgba(44, 30, 20, 0.8);
+            border: 2px solid #8b5a2b;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Альтер-Эго</h1>
+        <p>Настольно ролевая игра в стиле DnD, переработанная под сеттинг современного мира, магии, технологий и апокалепсиса</p>
+    </header>
+    
+    <nav>
+        <a href="#">Главная</a>
+        <a href="#">Правила</a>
+        <a href="#">Расы</a>
+        <a href="#">Бестиарий</a>
+        <a href="#">Классы</a>
+        <a href="#">Предыстории</a>
+        <a href="#">Черты</a>
+        <a href="#">Магческие предметы</a>
+        <a href="#">Заклинания</a>
+        <a href="#">Альтернаятивный Гештальт</a>
+    </nav>
+    
+    <div class="content">
+        <h2>Добро пожаловать, искатель приключений!</h2>
+        <p>Здесь собирается вся полезная информация по НРИ: официальные правила, домашние правила, персонажи, монстры и многое другое.</p>
+        
+        <p><strong>Сайт в разработке.</strong> Скоро будет намного больше контента!</p>
+    </div>
+</body>
+</html>
